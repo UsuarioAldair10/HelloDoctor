@@ -1,0 +1,43 @@
+
+
+.doctor-view {
+  background: red;
+  display: flex; 
+  margin: 0;
+  width: 100vw; 
+  height: 400px;
+}
+
+.content {
+  display: flex; 
+  height: 100%;
+  width: 100vw;
+  background: transparent; 
+}
+
+.description {
+  color: #888;
+  padding-left: 40px; 
+  padding-top: 80px;
+}
+
+
+
+.doctor-view-content-title{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.text {
+  align-self: flex-start;  
+}
+
+.image-container {
+  align-self: flex-end;
+  margin-right: 20px;
+}  
+
+.doctor {
+  max-width: 300px;
+  height: auto;
+}

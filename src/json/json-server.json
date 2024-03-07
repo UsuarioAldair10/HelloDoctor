@@ -1,0 +1,181 @@
+
+{
+    "doctors": [
+      {
+        "id": 1,
+        "name": "Juan ",
+        "lastName": "Juan",
+        "email": "juanperez@gmail.com",
+        "password": "1234567",
+        "specialty": "Medicina General",
+        "loggedIn": false,
+        "image" : "https://th.bing.com/th/id/OIG4.F0kQwR.8nKMPAR6gPRcF?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "score" : 4,
+        "numberRatings":1,
+        "description": "Medicina general, 4 años de experiencia",
+        "phone" : "542334123"
+      },
+      {
+        "id": 2,
+        "name": "María",
+        "lastName": "López",
+        "email": "marialopez@gmail.com",
+        "password": "7654321",
+        "specialty": "Pediatría",
+        "loggedIn": false,
+        "image" : "https://th.bing.com/th/id/OIG.sl4E9ggO8qKDW9YluEfe?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "score" : 5,
+        "numberRatings":1,
+        "description": "Pediatra, enfermedades infecciosas",
+        "phone" : "642432123"
+      },
+      {
+        "id": 3,
+        "name": "Pedro",
+        "lastName": "García",
+        "email": "pedrogarcia@gmail.com",
+        "password": "1234567",
+        "specialty": "Medicina General",
+        "loggedIn": false,
+        "image" : "https://th.bing.com/th/id/OIG.hGjBrgVbhv1KOYrMjh2Y?pid=ImgGn",
+        "score" : 5,
+        "numberRatings":1,
+        "description": "Oncólogo, enfoque holístico",
+        "phone" : "447334124"
+      },
+      {
+        "id": 4,
+        "name": "Ana",
+        "lastName": "Martínez",
+        "email": "anamartinez@gmail.com",
+        "password": "7654321",
+        "specialty": "Ginecología",
+        "loggedIn": false,
+        "image" : "https://th.bing.com/th/id/OIG.Z882mMR6ypBf111Bis56?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "score" : 3,
+        "numberRatings":1,
+        "description": "Ginecóloga, salud reproductiva",
+        "phone" : "642331231"
+
+      },
+      {
+        "id": 5,
+        "name": "José",
+        "lastName": "Rodríguez",
+        "email": "joserodriguez@gmail.com",
+        "password": "1234567",
+        "specialty": "Oncología",
+        "loggedIn": false,
+        "image" : "https://th.bing.com/th/id/OIG.7PDQ5ebrP3vnT336Rg2y?pid=ImgGn",
+        "score" : 4,
+        "numberRatings":1,
+        "description": "Cardiólogo, reconocido internacionalmente",
+        "phone" : "555134312"
+      },
+      {
+        "id": 6,
+        "name": "Luisa",
+        "lastName": "Sánchez",
+        "email": "luisasanchez@gmail.com",
+        "password": "765432111",
+        "specialty": "Oftalmología",
+        "loggedIn": false,
+        "image" : "https://th.bing.com/th/id/OIG.feXlDg2Z3PgipDUZZjt3?pid=ImgGn",
+        "score" : 5,
+        "numberRatings":1,
+        "description": "Cardiólogo, reconocido internacionalmente",
+        "phone" : "541134171"
+      },
+      {
+        "id": 7,
+        "name": "Antonio",
+        "lastName": "Torres",
+        "email": "antoniotorres@gmail.com",
+        "password": "1234567",
+        "specialty": "Otorrinolaringología",
+        "loggedIn": false,
+        "image" : "https://th.bing.com/th/id/OIG.R5ZAtQ_TPhQpZZ6uskLA?w=1024&h=1024&rs=1&pid=ImgDetMain",
+        "score" : 3,
+        "numberRatings":1,
+        "description": "Cardiólogo, reconocido internacionalmente",
+        "phone" : "847534175"
+      },
+      {
+        "id": 8,
+        "name": "Carmen",
+        "lastName": "Muñoz",
+        "email": "carmenmunoz@gmail.com",
+        "password": "7654321",
+        "specialty": "Dermatología",
+        "loggedIn": false,
+        "image" : "https://th.bing.com/th/id/OIG.unuTruc2gK1BFSJgVfj5?pid=ImgGn",
+        "score" : 5,
+        "numberRatings":1,
+        "description": "Dermatóloga, prevención",
+        "phone" : "247534125"
+      },
+      {
+        "id": 9,
+        "name": "David",
+        "lastName": "Gonsález",
+        "email": "davidgonsalez@gmail.com",
+        "password": "1234567",
+        "specialty": "Cardiología",
+        "loggedIn": false,
+        "image" : "https://th.bing.com/th/id/OIG.t7yEq7_W2n6zCL0vK0wZ?pid=ImgGn",
+        "score" : 4,
+        "numberRatings":1,
+        "description": "Cardiólogo intervencionista, mínimamente invasivo",
+        "phone" : "147334124"
+      }
+    ],
+    "patients": [
+        {
+            "id": 1,
+            "name": "Luisa",
+            "lastName": "Sánchez",
+            "age": 20,
+            "email": "luisasanchez@gmail.com",
+            "password": "7654321",
+            "loggedIn": false,
+            "image" : "../assets/patients/patient1.png"
+          },
+          {
+            "id": 2,
+            "name": "María",
+            "lastName": "López",
+            "age": 25,
+            "email": "marialopez@gmail.com",
+            "password": "1234567",
+            "loggedIn": false,
+            "image" : "../assets/patients/patient2.png"
+          },
+          {
+            "id": 3,
+            "name": "Pedro",
+            "lastName": "García",
+            "age": 30,
+            "email": "pedrogarcia@gmail.com",
+            "password": "1234567",
+            "loggedIn": false,
+            "image" : "../assets/patients/patient3.png"
+          }
+    ],
+    "appointments": [
+      {
+        "id": 1,
+        "doctorId": 1,
+        "patientId": 1,
+        "date": "2023-08-02",
+        "hour": "10:00"
+      },
+      {
+        "id": 2,
+        "doctorId": 2,
+        "patientId": 2,
+        "date": "2023-08-03",
+        "hour": "12:00"
+      }
+    ],
+    "doctorMessages": [  ]
+  }

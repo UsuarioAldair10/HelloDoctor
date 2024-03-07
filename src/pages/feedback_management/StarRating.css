@@ -1,0 +1,10 @@
+.star-label:hover {
+    color: #fffacd;
+  }
+  
+  input:checked + .star-label {
+    color: black;
+  }
+
+
+ 
